@@ -1,0 +1,3 @@
+/Users/georg/Desktop/acs/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/georg/Desktop/acs/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/georg/Desktop/acs/ФедяевЕгор - ДЗ1/App/fedyaev_ea_1/cmake-build-debug/CMakeFiles/fedyaev_ea_1.dir
